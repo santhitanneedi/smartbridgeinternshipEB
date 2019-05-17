@@ -2,7 +2,7 @@
  * SCROLL AND REVERSE.c
  *
  * Created: 10-May-19 12:24:54 PM
- * Author : ALEKHYA
+ * Author : santhi
  */ 
 
 #ifndef F_CPU
