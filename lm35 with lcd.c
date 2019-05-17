@@ -2,7 +2,7 @@
  * LM35 with lcd.c
  *
  * Created: 13-May-19 02:10:37 PM
- * Author : ALEKHYA
+ * Author : santhi
  */ 
 
 #include <avr/io.h>
