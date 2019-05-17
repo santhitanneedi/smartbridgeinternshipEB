@@ -2,7 +2,7 @@
  * SPI master and slave.c
  *
  * Created: 17-May-19 11:53:24 AM
- * Author : ALEKHYA
+ * Author : santhi
  */ 
 
 #include <avr/io.h>
